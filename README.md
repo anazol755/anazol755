@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @anazol755
+# Amir Gawish
+
 - 👀 I’m interested in technology as a whole
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
