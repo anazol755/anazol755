@@ -1,8 +1,8 @@
-#  😁 Amir Gawish
+#  😀Amir Gawish
 
 **` Computer Science student & aspiring software engineer`**
 
-# Im a Computer science Student who has developed a masive passion for technology and is eager to pursue a career in the tech industry. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in programming, software development, and other areas of computer science. My ultimate goal is to break into the tech industry and make a meaningful impact on the world through my work. This is a place in which i hope to not only show my work but also my learning journey as well
+Im a Computer science Student who has developed a masive passion for technology and is eager to pursue a career in the tech industry. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in programming, software development, and other areas of computer science. My ultimate goal is to break into the tech industry and make a meaningful impact on the world through my work. This is a place in which i hope to not only show my work but also my learning journey as well
 
 
 <!---
