@@ -24,6 +24,7 @@ I'm a Computer science Student who has developed a masive passion for technology
 <img align="left" alt="vscode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="xcode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <br/>
+
 #
 <!---
 anazol755/anazol755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
