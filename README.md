@@ -5,7 +5,10 @@
 I'm a Computer science Student who has developed a masive passion for technology and is eager to pursue a career in the tech industry. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in programming, software development, and other areas of computer science. My ultimate goal is to break into the tech industry and make a meaningful impact on the world through my work. This is a place in which I hope to not only show my work but also my learning journey as well.
 
 <p align="left">
-<img width="30px" style=padding-right:10px alt="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><a href="https://www.linkedin.com/in/amir-gawish/">
+<a href="https://www.linkedin.com/in/amir-gawish/" class="social-icon si-rounded si-small si-linkedin">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>
 </p>
 
 ---
