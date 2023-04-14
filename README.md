@@ -9,11 +9,11 @@ I'm a Computer science Student who has developed a masive passion for technology
 ### 🛠️ Languages and Tools
 <img align="left" alt="c++" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="html5" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img  align="left" alt="css3" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="css3" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="unix" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
 <img align="left" alt="bash" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="git" width="30px" style=padding-right:10px        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="github" width="30px" style=padding-right:10px     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="git" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="github" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  >
 <img align="left" alt="vscode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="xcode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <br/>
