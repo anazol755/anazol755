@@ -1,5 +1,7 @@
 # Amir Gawish
 
+**`Computer Science student/aspiring software engineer`**
+
 - 👀 I’m interested in technology as a whole
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
