@@ -1,4 +1,4 @@
-#  😀 Amir Gawish
+# Amir Gawish
 
 **` Computer Science student & aspiring software engineer`**
 
