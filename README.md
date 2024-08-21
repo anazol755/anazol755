@@ -12,7 +12,6 @@ I'm a Computer science Student who has developed a masive passion for technology
 <img align="left" alt="bash" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="git" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="vscode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="xcode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <br/>
 
 #
