@@ -13,7 +13,7 @@ I'm a Computer science Student who has developed a masive passion for technology
 <img align="left" alt="git" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="vscode" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br/>
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=Architect&fontColor=white&bgColor=black)
 #
 
 <!---
