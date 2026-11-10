@@ -2,7 +2,7 @@
 
 **` Computer Science Grad`**
 
-I'm a Computer science Grad who has developed a masive passion for technology and is eager to pursue a career in the tech industry. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in programming, software development, and other areas of computer science. My ultimate goal is to make a meaningful impact on the world through my work.
+I'm a Computer science Grad who has a passion for technology and is eager to pursue a career in the tech industry. I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in programming, software development, and other areas of computer science. My ultimate goal is to make a meaningful impact on the world through my work.
 ---
 ### 🛠️ Languages and Tools
 <img align="left" alt="c++" width="30px" style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
